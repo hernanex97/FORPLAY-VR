@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3257193768
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61a016a2097be488856e1287ac106581
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df6e3d842a9a469096f2b13e15672b29
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/NivelUno/NavMesh.asset
+- Assets/Scenes/NivelUno_Profiles/PostProccesingVolume Profile.asset
+- Assets/Terrain/New Terrain 3.asset
+- Assets/Scenes/NivelUno/OcclusionCullingData.asset
+Dependencies:
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

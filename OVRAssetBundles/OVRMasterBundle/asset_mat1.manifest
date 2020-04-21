@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2298835142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03740d5c7c010935ed81dd7d1c46236a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Importados/MMGAssets/Textures/Packs/RandomTenFree/Textures/Piso.mat
+- Assets/Importados/MMGAssets/Textures/Packs/RandomTenFree/Textures/Materials/MMGF_MossMat.mat
+- Assets/Room/Materials/door texture 4.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/Room/models/Materials/border.000.mat
+- Assets/Room/models/Materials/top_roof_wood.008.mat
+- Assets/Room/models/Materials/bookcasewood.002.mat
+- Assets/Importados/Simple Vehicle Pack/Materials/Mobile/Bus_2.mat
+- Assets/Edificios/EdificioCeleste.mat
+- Assets/Room/models/Materials/glass.000.mat
+- Assets/Room/textures/chiar/Materials/wood the tabel and chaer.002_Metallic.mat
+- Assets/Importados/Simple Vehicle Pack/Materials/Mobile/Cars_1.mat
+- Assets/Room/models/Materials/wood the tabel and chaer.001.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/Importados/Simple Vehicle Pack/Models/Materials/No Name.mat
+- Assets/Importados/Simple city plain/Material & Texture/Colors_buildings/Calle.mat
+- Assets/Room/models/Materials/ground tiles.000.mat
+- Assets/Room/models/Materials/pilers.mat
+- Assets/Room/Materials/the chandelier.mat
+- Assets/Room/textures/window/Materials/iner 1.mat
+- Assets/Edificios/EdificioAzul.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Edificios/EdificioAmarillo.mat
+- Assets/Oculus/VR/Meshes/GearVrController/Materials/malibuController_color_1024.mat
+- Assets/Room/models/Materials/door.000.mat
+- Assets/Room/models/Materials/booksonthecase.002.mat
+- Assets/Edificios/EdificioRosa.mat
+Dependencies:
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_tga0

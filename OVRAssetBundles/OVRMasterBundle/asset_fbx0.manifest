@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3577296244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84b082868f07266d0dbf38cdf0e1610c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8217c8368c414b8909ed481d83841351
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD1.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/light_celing_1.fbx
+- Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/decorative_wall_4_no_computer_LOD0.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD1.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/art_4.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/column_end.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD0.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/decorative_plant.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/floor_1.fbx
+- Assets/3d-model.fbx
+- Assets/Sci-Fi Styled Modular Pack/Models/art_5.fbx
+- Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
+Dependencies:
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_mat0

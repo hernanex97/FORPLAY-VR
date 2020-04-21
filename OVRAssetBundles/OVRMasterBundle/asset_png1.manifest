@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1230032460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68966560cf1011011ea80800f67ab2c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Room/textures/floor/marble_1_normal.png
+- Assets/Room/textures/window/border.001_Base_Color.png
+- Assets/Importados/low_poly_cars_set/tex/Car_08.png
+- Assets/Room/textures/bookcase/bookcasewood_Normal_DirectX.png
+- Assets/Edificios/edificio byhernoRojo.png
+- Assets/Room/textures/roofrop/top_roof_wood_Base_Color.png
+- Assets/Room/textures/roofrop/top_roof_wood_Mixed_AO.png
+- Assets/Importados/low_poly_cars_set/tex/Car_09.png
+- Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Right.png
+- Assets/Room/textures/the chandelier.png
+- Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Front.png
+- Assets/Room/textures/pillars/pilers_Mixed_AO.png
+- Assets/Room/textures/Cb.png
+- Assets/Room/textures/floor/marble_1_basecolor.png
+- Assets/Oculus/VR/Textures/gaze_cursor.png
+- Assets/Room/textures/wall/brick_uneven_stones_ambient_occlusion.png
+- Assets/Room/textures/roofrop/top_roof_wood_Height.png
+- Assets/Room/textures/chiar/wood the tabel and chaer.002_Roughness.png
+- Assets/Room/textures/chiar/wood the tabel and chaer.002_Mixed_AO.png
+- Assets/Room/textures/roofrop/top_roof_wood_Normal_DirectX.png
+- Assets/Imagenes/img_30868.png
+- Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Back.png
+- Assets/Edificios/edificio byhernoAmarillo.png
+- Assets/Imagenes/New Project.png
+- Assets/Room/textures/table/wood the tabel and chaer_Normal_DirectX.png
+- Assets/Imagenes/humo2.png
+- Assets/Importados/low_poly_cars_set/tex/Car_05.png
+- Assets/Edificios/edificio byhernoVerde.png
+- Assets/Edificios/edificio byhernoRosa.png
+- Assets/Room/textures/window/border.001_Normal_DirectX.png
+Dependencies: []

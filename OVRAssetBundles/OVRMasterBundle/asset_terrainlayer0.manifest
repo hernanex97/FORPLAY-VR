@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3999174879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98b4a9f9a0a066e85717bada9afebdf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ed1d9af01d09ebd8d5e924ea7a7f6b6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/NewLayer.terrainlayer
+- Assets/WoodLayer.terrainlayer
+- Assets/Imagenes/NewLayer 4.terrainlayer
+- Assets/Imagenes/NewLayer 1.terrainlayer
+Dependencies:
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_png0

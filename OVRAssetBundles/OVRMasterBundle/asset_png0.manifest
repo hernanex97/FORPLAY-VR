@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 572079718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd63372d2f4b3ef150eb043f1ee1a2ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Sci-Fi Styled Modular Pack/Textures/mettalic.png
+- Assets/Scripts/VR Scripts Nuestros/open.png
+- Assets/Sci-Fi Styled Modular Pack/Textures/nature_leaves.png
+- Assets/Imagenes/water texture.png
+- Assets/Sci-Fi Styled Modular Pack/Textures/base-color-normal.png
+- Assets/Oculus/VR/Textures/gaze_cursor.png
+- Assets/Sci-Fi Styled Modular Pack/Textures/base-color.png
+- Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png
+- Assets/Scripts/VR Scripts Nuestros/closed.png
+Dependencies: []

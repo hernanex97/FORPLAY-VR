@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2140791330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3279dffa6e1b87de02795f3d3ee54a2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sci-Fi Styled Modular Pack/Models/Materials/cyan.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/nature_root.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/Palletes/base color.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/nature_leaves.mat
+- Assets/Importados/True Explosions/System/Materials/Smoke.mat
+- Assets/Oculus/VR/Materials/gaze_cursor.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/white emision.mat
+- Assets/Materials/water material.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Sci-Fi Styled Modular Pack/Materials/lattice.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/Scripts/VR Scripts Nuestros/red.mat
+- Assets/Sci-Fi Styled Modular Pack/Models/Materials/GreyNew.mat
+- Assets/Materials/yellow.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/Sci-Fi Styled Modular Pack/Models/Materials/base color.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/VR/Meshes/GearVrController/Materials/malibuController_color_1024.mat
+- Assets/Importados/True Explosions/Scenes/common/DTNAMITE.mat
+Dependencies:
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/herna/Desktop/Brakless/BrakelessVR/OVRAssetBundles/OVRMasterBundle/asset_tga0

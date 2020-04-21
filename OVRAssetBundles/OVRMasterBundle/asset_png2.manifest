@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2211907360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20c9b27aaf970077145ca612694d91d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Edificios/edificio byhernoCeleste.png
+- Assets/Importados/low_poly_cars_set/tex/Car_06.png
+- Assets/Room/textures/pillars/pilers_Roughness.png
+- Assets/Room/textures/pillars/pilers_Normal_DirectX.png
+- Assets/Edificios/edificio byhernoAzul.png
+- Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Down.png
+- Assets/Importados/low_poly_cars_set/tex/Car_07.png
+- Assets/Room/textures/window/iner.png
+- Assets/Room/textures/the book texture.png
+- Assets/Room/textures/window/border.001_Mixed_AO.png
+- Assets/Importados/low_poly_cars_set/tex/Car_01.png
+- Assets/Room/textures/floor/marble_1_height.png
+- Assets/Room/textures/bookcase/book-case-9.png
+- Assets/Room/textures/chiar/wood the tabel and chaer.002_Normal_DirectX.png
+- Assets/Imagenes/arrowImage.png
+- Assets/Room/textures/wall/brick_uneven_stones_height.png
+- Assets/Room/textures/door texture 3.png
+- Assets/Scripts/VR Scripts Nuestros/closed.png
+- Assets/Room/textures/window/border.001_Height.png
+- Assets/Importados/low_poly_cars_set/tex/Car_04.png
+Dependencies: []
